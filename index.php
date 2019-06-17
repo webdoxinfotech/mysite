@@ -12,6 +12,7 @@
 	<title></title>
 </head>
 <body>
+	<h2>Sums All:</h2>
 	<?php
 		$a = 10;
 		$b = 10;
